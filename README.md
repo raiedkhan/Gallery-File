@@ -1,2 +1,2 @@
 # Gallery-project
-Gallery File implementing html,css,bootstrap,javascript
+Gallery Project implementing html,css,bootstrap,javascript
